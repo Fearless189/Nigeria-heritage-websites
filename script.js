@@ -31,7 +31,7 @@ const statues = [
     place: "Igbo-Ukwu, Anambra State",
     age: "About the 9th century",
     color: "#2f6b4f",
-    image: "images/igbo-ukwu.jpg",
+    image: "images/igbo.jpg",
     text: "Finely detailed bronze vessels and ornaments found in burial sites. They are admired for their delicate, intricate decoration."
   },
   {
